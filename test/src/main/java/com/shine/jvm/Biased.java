@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Vector;
 
 /**
+ * 测试偏向锁
  * -XX:+UseBiasedLocking -XX:BiasedLockingStartupDelay=0 -client -Xmx512m -Xms512m
  * -XX:-UseBiasedLocking -XX:BiasedLockingStartupDelay=0 -client -Xmx512m -Xms512m
  */
