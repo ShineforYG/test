@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aedeee9d-d048-40df-824c-848e59dd7fb7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aedeee9d-d048-40df-824c-848e59dd7fb7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,50 +13,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="FatherDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/FatherDemo.java">
+      <file leaf-file-name="C2P89_GenericDefinitionDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P89_GenericDefinitionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            <state relative-caret-position="325">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParamPassing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/ParamPassing.java">
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-              <folding>
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C2P72_MultiAgrs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P72_MultiAgrs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C2P75_StaticInit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P75_StaticInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="237">
+              <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="4" selection-end-line="210" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -106,6 +76,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P73_StaticCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P72_MultiAgrs.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P75_StaticInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P85_OverloadMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P89_GenericDefinitionDemo.java" />
       </list>
     </option>
   </component>
@@ -140,35 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="test" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="test" type="616d4139:PackageViewModuleNode" />
-              <item name="com.shine" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="test" type="616d4139:PackageViewModuleNode" />
-              <item name="com.shine" type="1f31426a:PackageElementNode" />
-              <item name="java8" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="test" type="616d4139:PackageViewModuleNode" />
-              <item name="com.shine" type="1f31426a:PackageElementNode" />
-              <item name="java8" type="1f31426a:PackageElementNode" />
-              <item name="stream" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -217,6 +160,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shine" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shine" type="1f31426a:PackageElementNode" />
+              <item name="java8" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shine" type="1f31426a:PackageElementNode" />
+              <item name="java8" type="1f31426a:PackageElementNode" />
+              <item name="stream" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C2P75_StaticInit">
+  <component name="RunManager" selected="Application.C2P89_GenericDefinitionDemo">
     <configuration name="C2P72_MultiAgrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shine.easy_coding.C2P72_MultiAgrs" />
       <module name="test" />
@@ -267,8 +239,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ParamPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shine.easy_coding.ParamPassing" />
+    <configuration name="C2P85_OverloadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shine.easy_coding.C2P85_OverloadMethods" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -278,24 +250,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StreamApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shine.java8.stream.StreamApiTest" />
+    <configuration name="C2P89_GenericDefinitionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shine.easy_coding.C2P89_GenericDefinitionDemo" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shine.java8.stream.*" />
+          <option name="PATTERN" value="com.shine.easy_coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shine.java8.stream.StreamTest" />
+    <configuration name="ParamPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shine.easy_coding.ParamPassing" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shine.java8.stream.*" />
+          <option name="PATTERN" value="com.shine.easy_coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,19 +324,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StreamTest" />
-      <item itemvalue="Application.StreamApiTest" />
       <item itemvalue="Application.ParamPassing" />
       <item itemvalue="Application.C2P72_MultiAgrs" />
       <item itemvalue="Application.C2P75_StaticInit" />
+      <item itemvalue="Application.C2P85_OverloadMethods" />
+      <item itemvalue="Application.C2P89_GenericDefinitionDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C2P89_GenericDefinitionDemo" />
+        <item itemvalue="Application.C2P85_OverloadMethods" />
         <item itemvalue="Application.C2P75_StaticInit" />
         <item itemvalue="Application.C2P72_MultiAgrs" />
         <item itemvalue="Application.ParamPassing" />
-        <item itemvalue="Application.StreamApiTest" />
-        <item itemvalue="Application.StreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +362,7 @@
       <workItem from="1578964364212" duration="3090000" />
       <workItem from="1579052855213" duration="1861000" />
       <workItem from="1579094708515" duration="690000" />
+      <workItem from="1579137519957" duration="3809000" />
     </task>
     <servers />
   </component>
@@ -420,13 +393,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27811000" />
+    <option name="totallyTimeSpent" value="31620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32700893" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -438,7 +412,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19796138" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -453,7 +427,6 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32700893" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,6 +699,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P85_OverloadMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="4" selection-end-line="210" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shine/easy_coding/C2P89_GenericDefinitionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
